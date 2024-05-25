@@ -6,6 +6,14 @@ variable "fingerprint"          { type = string }
 variable "region"               { type = string }
 variable "root_compartment_id"  { type = string }
 
+terraform {
+  required_providers {
+    oci = {
+      source = "oracle/oci"
+      version = "5.43.0"
+    }
+  }
+}
 
 provider "oci" {
   region           = var.region
