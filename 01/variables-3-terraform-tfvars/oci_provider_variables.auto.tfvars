@@ -1,6 +1,0 @@
-tenancy_ocid        = "ocid1.tenancy.oc1..aaaaaaaayjfp4gqjas3gotlbg3tujg4pfqerjzrn2kipd7uhypq4ehzk73ja"
-user_ocid           = "ocid1.user.oc1..aaaaaaaaoj3ipxagu7obfg7giryc27fsro5p2s3wdd7xgef4bs2n2tragwcq"
-private_key_path    = "/home/vagrant/.oci/oci_api_key_public.pem"
-fingerprint         = "aa:35:81:24:9b:38:5c:86:40:1d:95:5b:1a:fd:ca:83"
-region              = "sao-paulo-1"
-root_compartment_id = "ocid1.tenancy.oc1..aaaaaaaayjfp4gqjas3gotlbg3tujg4pfqerjzrn2kipd7uhypq4ehzk73ja"
